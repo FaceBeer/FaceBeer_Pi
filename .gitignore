@@ -1,0 +1,5 @@
+.idea
+model.tflite
+__pycache__
+Adafruit_SSD1306
+*.ttf
